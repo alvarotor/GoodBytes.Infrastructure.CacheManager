@@ -1,0 +1,1 @@
+# GoodBytes.Infrastructure.CacheManager
